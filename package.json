@@ -18,5 +18,11 @@
   "homepage": "https://github.com/Xallver/Jest-Another-RPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
